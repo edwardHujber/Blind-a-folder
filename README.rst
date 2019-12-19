@@ -5,7 +5,7 @@ A simple python3 script to blind and unblind data in a folder.
 How to use
 ------------------
 
-The simple GUI makes it dead simple.
+The GUI makes it rather straightforward!
 
 .. image:: /resources/windowsnip.png
 
