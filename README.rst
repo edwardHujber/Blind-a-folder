@@ -7,7 +7,7 @@ How to use
 
 The simple GUI makes it dead simple.
 
-.. image:: /resources/windowsnip.jpg
+.. image:: /resources/windowsnip.png
 
 **BLIND** will ask you to select a folder.
 
