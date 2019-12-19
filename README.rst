@@ -9,12 +9,13 @@ The simple GUI makes it dead simple.
 
 .. image:: /resources/windowsnip.png
 
-**BLIND** will ask you to select a folder.
+* **BLIND** will ask you to select a folder.
 
-All the folders and files within will be renamed.
+    All the folders and files within will be renamed.
 
-A key file will also be generated and left in that same folder. 
+    A key file will also be generated and left in that same folder. 
 
-**UNBLIND** will ask you to select a key file.
 
-Files and folders in the same directory will be unblinded according to the key.
+* **UNBLIND** will ask you to select a key file.
+
+    Files and folders in the same directory will be unblinded according to the key.
