@@ -1,6 +1,6 @@
 Blind-a-folder
 ========
-A simple python script to blind and unblind data in a folder.
+A simple python3 script to blind and unblind data in a folder.
 
 How to use
 ------------------
